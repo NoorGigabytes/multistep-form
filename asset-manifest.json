@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/multistep-form/static/css/main.057cc8a0.css",
+    "main.js": "/multistep-form/static/js/main.548ac051.js",
+    "static/js/787.3e1ceccc.chunk.js": "/multistep-form/static/js/787.3e1ceccc.chunk.js",
+    "index.html": "/multistep-form/index.html",
+    "main.057cc8a0.css.map": "/multistep-form/static/css/main.057cc8a0.css.map",
+    "main.548ac051.js.map": "/multistep-form/static/js/main.548ac051.js.map",
+    "787.3e1ceccc.chunk.js.map": "/multistep-form/static/js/787.3e1ceccc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.057cc8a0.css",
+    "static/js/main.548ac051.js"
+  ]
+}
